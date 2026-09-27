@@ -41,6 +41,10 @@ The Tableau dashboard explores:
 - Exploratory Data Analysis
 - Data Interpretation
 
+  ## Tableau Public
+
+[View the interactive Tableau dashboard](https://public.tableau.com/views/fullproject_17899915519860/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+
 ## Project Structure
 
 ```text
